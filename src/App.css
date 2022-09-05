@@ -1,5 +1,4 @@
 body {
-  background-color: rgb(76, 134, 73);
   background-image: url(pics/background.png);
   background-position: center;
   background-repeat: no-repeat;
@@ -18,7 +17,7 @@ body {
 }
 
 .card {
-  border-radius: 5px;
+  border-radius: 15px;
   box-shadow: 1px 1px 6px rgb(111, 111, 111);
   padding: 1rem;
   background-color: rgb(161, 111, 1);
@@ -31,7 +30,7 @@ body {
   display: grid;
   justify-items: center;
   align-items: center;
-  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(242px, 1fr));
   margin: 1rem;
   row-gap: 1rem;
   width: 80%;
