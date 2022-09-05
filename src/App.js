@@ -1,5 +1,6 @@
 import { useState } from "react";
 import CardList from "./Components/CardList";
+import logo from "./pics/logo.png";
 
 import {
   khaCard,
@@ -91,9 +92,10 @@ function App() {
     <div className="App">
       <div className="score">
         <h1>Current score: {score}</h1>
+        <img src={logo} id="logo"></img>
         <h1>High Score: {highScore}</h1>
-        <CardList list={card} click={handleChange} />
       </div>
+      <CardList list={card} click={handleChange} />
     </div>
   );
 }
