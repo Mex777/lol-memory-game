@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lol-memory-game/static/css/main.184cb045.css",
+    "main.css": "/lol-memory-game/static/css/main.ae3e5900.css",
     "main.js": "/lol-memory-game/static/js/main.3d02aa45.js",
     "static/js/787.69b12325.chunk.js": "/lol-memory-game/static/js/787.69b12325.chunk.js",
     "static/media/background.png": "/lol-memory-game/static/media/background.1058b3e4ee2c7ecc5d02.png",
@@ -16,12 +16,12 @@
     "static/media/shaco.png": "/lol-memory-game/static/media/shaco.eee21b397fedc2cc72b5.png",
     "static/media/garen.png": "/lol-memory-game/static/media/garen.43b4df559f9869c979e6.png",
     "index.html": "/lol-memory-game/index.html",
-    "main.184cb045.css.map": "/lol-memory-game/static/css/main.184cb045.css.map",
+    "main.ae3e5900.css.map": "/lol-memory-game/static/css/main.ae3e5900.css.map",
     "main.3d02aa45.js.map": "/lol-memory-game/static/js/main.3d02aa45.js.map",
     "787.69b12325.chunk.js.map": "/lol-memory-game/static/js/787.69b12325.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.184cb045.css",
+    "static/css/main.ae3e5900.css",
     "static/js/main.3d02aa45.js"
   ]
 }
