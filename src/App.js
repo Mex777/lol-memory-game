@@ -1,21 +1,35 @@
 import { useState } from "react";
 import CardList from "./Components/CardList";
+
+import {
+  khaCard,
+  zedCard,
+  garenCard,
+  ahriCard,
+  renektonCard,
+  kaisaCard,
+  jinxcard,
+  yasuoCard,
+  shacoCard,
+  luluCard,
+} from "./index";
 import "./App.css";
 
 function App() {
   const [score, setScore] = useState(0);
   const [highScore, setHighScore] = useState(0);
-  const ahriCard = { name: "Ahri", clicked: false };
-  const garenCard = { name: "Garen", clicked: false };
-  const zedCard = { name: "Zed", clicked: false };
-  const khaCard = { name: "Kha'Zix", clicked: false };
-  const renektonCard = { name: "Renekton", clicked: false };
+
   const [card, setCard] = useState([
     ahriCard,
     garenCard,
     zedCard,
     khaCard,
     renektonCard,
+    kaisaCard,
+    jinxcard,
+    yasuoCard,
+    shacoCard,
+    luluCard,
   ]);
 
   const handleChange = (id) => {
@@ -77,7 +91,7 @@ function App() {
     <div className="App">
       <div className="score">
         <h1>Current score: {score}</h1>
-        <h2>High Score: {highScore}</h2>
+        <h1>High Score: {highScore}</h1>
         <CardList list={card} click={handleChange} />
       </div>
     </div>

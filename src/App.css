@@ -1,15 +1,43 @@
+body {
+  background-color: rgb(76, 134, 73);
+  background-image: url(pics/background.png);
+  background-position: center;
+  color: white;
+  -webkit-text-stroke: 0.6px;
+  -webkit-text-stroke-color: black;
+}
+
 .App {
   text-align: center;
 }
 
 .card {
   border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 1px 1px 6px rgb(111, 111, 111);
   padding: 1rem;
+  background-color: rgb(161, 111, 1);
+  color: rgb(255, 201, 64);
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .card-list {
-  display: flex;
+  display: grid;
   /* border: 1px solid red; */
-  justify-content: center;
+  justify-items: center;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  margin: 1rem;
   gap: 1rem;
+}
+
+img {
+  width: 225px;
+  height: 225px;
+}
+
+.title {
+  padding: 0.5rem;
+  /* border: 1px solid red; */
+  background-color: rgba(206, 147, 92, 0.597);
 }
