@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/lol-memory-game/static/css/main.184cb045.css",
+    "main.js": "/lol-memory-game/static/js/main.3d02aa45.js",
+    "static/js/787.69b12325.chunk.js": "/lol-memory-game/static/js/787.69b12325.chunk.js",
+    "static/media/background.png": "/lol-memory-game/static/media/background.1058b3e4ee2c7ecc5d02.png",
+    "static/media/kha.png": "/lol-memory-game/static/media/kha.c6ee8016bfb644cc2db1.png",
+    "static/media/logo.png": "/lol-memory-game/static/media/logo.04b3cefafba917c9c571.png",
+    "static/media/zed.png": "/lol-memory-game/static/media/zed.4fec73e62240f081a9c6.png",
+    "static/media/ahri.png": "/lol-memory-game/static/media/ahri.f7d8562850a6f855e9fe.png",
+    "static/media/lulu.png": "/lol-memory-game/static/media/lulu.b09c8d294ae12b44147b.png",
+    "static/media/yasuo.png": "/lol-memory-game/static/media/yasuo.b354a02914a4c3ab5a69.png",
+    "static/media/kaisa.png": "/lol-memory-game/static/media/kaisa.1e872894325758d55a0c.png",
+    "static/media/renekton.png": "/lol-memory-game/static/media/renekton.23ab56fbbe88aaef8922.png",
+    "static/media/jinx.png": "/lol-memory-game/static/media/jinx.ded869c64b76a8adc051.png",
+    "static/media/shaco.png": "/lol-memory-game/static/media/shaco.eee21b397fedc2cc72b5.png",
+    "static/media/garen.png": "/lol-memory-game/static/media/garen.43b4df559f9869c979e6.png",
+    "index.html": "/lol-memory-game/index.html",
+    "main.184cb045.css.map": "/lol-memory-game/static/css/main.184cb045.css.map",
+    "main.3d02aa45.js.map": "/lol-memory-game/static/js/main.3d02aa45.js.map",
+    "787.69b12325.chunk.js.map": "/lol-memory-game/static/js/787.69b12325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.184cb045.css",
+    "static/js/main.3d02aa45.js"
+  ]
+}
